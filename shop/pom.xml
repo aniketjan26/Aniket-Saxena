@@ -46,6 +46,21 @@
             <scope>test</scope>
         </dependency>
         <dependency>
+            <groupId>org.http4k</groupId>
+            <artifactId>http4k-testing-strikt</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.http4k</groupId>
+            <artifactId>http4k-testing-approval</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.http4k</groupId>
+            <artifactId>http4k-testing-tracerbullet</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
             <scope>test</scope>
