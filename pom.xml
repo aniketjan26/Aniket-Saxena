@@ -30,8 +30,8 @@
         <maven.compiler.target>21</maven.compiler.target>
 
         <!-- Dependency versions -->
-        <http4k.version>5.35.3.0</http4k.version>
-        <http4k-connect.version>5.26.2.0</http4k-connect.version>
+        <http4k.version>6.5.3.0</http4k.version>
+        <http4k-connect.version>5.26.0.1</http4k-connect.version>
         <forkhandles.version>2.22.2.1</forkhandles.version>
         <values4k.version>2.22.2.1</values4k.version>
         <hikaricp.version>6.3.0</hikaricp.version>
